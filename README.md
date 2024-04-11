@@ -25,19 +25,20 @@ Throughout this specialization, we will be using the following tools:
 ## Repository Structure
 
 The repository is structured as follows:
+
 MLOps-specialization/
 ├── MLEP_C1/
-│ ├── Week-1/
-│ ├── Week-2/
-│ └── Week-3/
+│   ├── Week-1/
+│   ├── Week-2/
+│   └── Week-3/
 ├── MLEP_C2/
-│ ├── C2Wk1Assignment/
-│ ├── C2Wk2Assignment/
-│ └── C2Wk3Assignment/
+│   ├── C2Wk1Assignment/
+│   ├── C2Wk2Assignment/
+│   └── C2Wk3Assignment/
 ├── MLEP_C3/
-│ └── Weekly_Labs/
+│   └── Weekly_Labs/
 ├── MLEP_C4/
-│ └── Weekly_Labs/
+│   └── Weekly_Labs/
 └── README.md
 
 - Each module directory contains lab assignments.
