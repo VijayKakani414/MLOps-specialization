@@ -35,9 +35,9 @@ MLOps-specialization/
 │ ├── C2Wk2Assignment/
 │ └── C2Wk3Assignment/
 ├── MLEP_C3/
-│ ├── Weekly_Labs/
+│ └── Weekly_Labs/
 ├── MLEP_C4/
-│ ├── Weekly_Labs/
+│ └── Weekly_Labs/
 └── README.md
 
 - Each module directory contains lab assignments.
