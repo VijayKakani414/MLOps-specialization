@@ -1,6 +1,6 @@
 # MLOps Specialization Repository
 
-Welcome to the MLOps Specialization Repository! This repository is designed to assist students and colleagues in completing the DeepLearning.ai's Machine Learning Engineering for Production (MLOps) specialization course. Here you will find course materials, assignments, and useful resources.
+This repository is designed to assist students and colleagues in completing the DeepLearning.ai's Machine Learning Engineering for Production (MLOps) specialization course. Here you will find course materials, assignments, and useful resources.
 
 ## Overview
 
