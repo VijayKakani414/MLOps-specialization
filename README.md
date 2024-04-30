@@ -2,7 +2,7 @@
 
 This repository is designed to assist students and colleagues in completing the DeepLearning.ai's Machine Learning Engineering for Production (MLOps) specialization course. Here you will find course materials, assignments, and useful resources.
 
-<img width="803" alt="MLOps_Pic" src="https://github.com/VijayKakani414/MLOps-specialization/assets/25151205/7983d7f6-e393-4ce5-8f5c-79a5419eeaf2">
+<img width="700" alt="MLOps_Pic" src="https://github.com/VijayKakani414/MLOps-specialization/assets/25151205/7983d7f6-e393-4ce5-8f5c-79a5419eeaf2">
 
 ## Overview
 
